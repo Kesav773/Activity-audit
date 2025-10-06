@@ -1,6 +1,6 @@
 ## EX - 4 Auditing Cloud Activity Using AWS CloudTrail
-## Name : S.Harika
-## Reg No : 212224240155
+## Name : Kesav K M
+## Reg No : 212224110031
 
 ## Aim
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
